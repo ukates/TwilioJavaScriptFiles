@@ -1,0 +1,2 @@
+C:\Users\Cates\Documents\JavaScript Files\TwilioJavaScriptFiles\TwilioJavaScriptFiles\obj\Debug\TwilioJavaScriptFiles.njsprojAssemblyReference.cache
+C:\Users\Cates\Documents\JavaScript Files\TwilioJavaScriptFiles\TwilioJavaScriptFiles\bin\Microsoft.NodejsTools.WebRole.dll

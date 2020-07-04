@@ -1,0 +1,9 @@
+{
+  "name": "twilio-java-script-files",
+  "version": "0.0.0",
+  "description": "TwilioJavaScriptFiles",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
